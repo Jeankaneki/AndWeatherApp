@@ -32,4 +32,6 @@ A basic Android weather app that displays weekly temperatures.
 2. Weather Display  
    ![Screenshot_20250521_121229.png](Screenshot_20250521_121229.png)
    ![Screenshot_20250521_130233.png](Screenshot_20250521_130233.png)
+
+   link to the repository: https://github.com/Jeankaneki/AndWeatherApp.git
 thanks.
